@@ -1,2 +1,3 @@
-# newmediaxp.github.io
-root site
+# Root Site
+
+This is the root site page for testing.
