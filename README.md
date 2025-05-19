@@ -1,4 +1,4 @@
-# Github Home
+# Home
 
 &copy; New Media XP  
 |
@@ -11,7 +11,7 @@
 
 ## Contents
 
-* Docs  [(link)](/docs)
+* Docs [(link)](/docs)
 
 * Exam Papers Archive [(link)](/exam-papers-archive)
 
