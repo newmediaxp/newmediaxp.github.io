@@ -9,7 +9,7 @@
 
 ---
 
-## Contents
+## Page
 
 * Docs [(link)](/docs)
 
