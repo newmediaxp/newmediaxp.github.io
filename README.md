@@ -9,11 +9,9 @@
 
 ---
 
-## Page
+## Pages
 
 * Docs [(link)](/docs)
-
-* Exam Papers Archive [(link)](/exam-papers-archive)
 
 ---
 
